@@ -1,3 +1,5 @@
+// https://stackoverflow.com/questions/35416641/numbers-to-words-in-python
+
 public class NumToWords {
     public static String get_ones(int num) {
         return switch (num) {
